@@ -1,0 +1,2 @@
+C:\Users\rares\source\repos\Wordle\bin\Release\net6.0-windows\publish\win-x86\Wordle.pdb
+C:\Users\rares\source\repos\Wordle\bin\Release\net6.0-windows\publish\win-x86\Wordle.exe

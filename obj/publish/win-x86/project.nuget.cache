@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oy9QzRuiP4/yYwyxVCBXkkgmSDkZV6JeEkxHT2ADvI53v4vdmrpX02I1mDqJaHGsIMR3DYDWEmFooQySwZO4lQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rares\\source\\repos\\Wordle\\Wordle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rares\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.12\\microsoft.netcore.app.runtime.win-x86.6.0.12.nupkg.sha512",
+    "C:\\Users\\rares\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.12\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.12.nupkg.sha512",
+    "C:\\Users\\rares\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.12\\microsoft.aspnetcore.app.runtime.win-x86.6.0.12.nupkg.sha512",
+    "C:\\Users\\rares\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.12\\microsoft.netcore.app.crossgen2.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

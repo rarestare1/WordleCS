@@ -1,0 +1,5 @@
+C:\Users\rares\source\repos\Wordle\bin\Release\net6.0-windows\publish\Wordle.exe
+C:\Users\rares\source\repos\Wordle\bin\Release\net6.0-windows\publish\Wordle.dll
+C:\Users\rares\source\repos\Wordle\bin\Release\net6.0-windows\publish\Wordle.deps.json
+C:\Users\rares\source\repos\Wordle\bin\Release\net6.0-windows\publish\Wordle.runtimeconfig.json
+C:\Users\rares\source\repos\Wordle\bin\Release\net6.0-windows\publish\Wordle.pdb

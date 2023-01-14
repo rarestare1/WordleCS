@@ -1,0 +1,17 @@
+C:\Users\rares\source\repos\Wordle\bin\Release\net6.0-windows\win-x86\Wordle.exe
+C:\Users\rares\source\repos\Wordle\bin\Release\net6.0-windows\win-x86\Wordle.deps.json
+C:\Users\rares\source\repos\Wordle\bin\Release\net6.0-windows\win-x86\Wordle.runtimeconfig.json
+C:\Users\rares\source\repos\Wordle\bin\Release\net6.0-windows\win-x86\Wordle.dll
+C:\Users\rares\source\repos\Wordle\bin\Release\net6.0-windows\win-x86\Wordle.pdb
+C:\Users\rares\source\repos\Wordle\obj\Release\net6.0-windows\win-x86\Wordle.csproj.AssemblyReference.cache
+C:\Users\rares\source\repos\Wordle\obj\Release\net6.0-windows\win-x86\Wordle.UI.resources
+C:\Users\rares\source\repos\Wordle\obj\Release\net6.0-windows\win-x86\Wordle.csproj.GenerateResource.cache
+C:\Users\rares\source\repos\Wordle\obj\Release\net6.0-windows\win-x86\Wordle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rares\source\repos\Wordle\obj\Release\net6.0-windows\win-x86\Wordle.AssemblyInfoInputs.cache
+C:\Users\rares\source\repos\Wordle\obj\Release\net6.0-windows\win-x86\Wordle.AssemblyInfo.cs
+C:\Users\rares\source\repos\Wordle\obj\Release\net6.0-windows\win-x86\Wordle.csproj.CoreCompileInputs.cache
+C:\Users\rares\source\repos\Wordle\obj\Release\net6.0-windows\win-x86\Wordle.dll
+C:\Users\rares\source\repos\Wordle\obj\Release\net6.0-windows\win-x86\refint\Wordle.dll
+C:\Users\rares\source\repos\Wordle\obj\Release\net6.0-windows\win-x86\Wordle.pdb
+C:\Users\rares\source\repos\Wordle\obj\Release\net6.0-windows\win-x86\Wordle.genruntimeconfig.cache
+C:\Users\rares\source\repos\Wordle\obj\Release\net6.0-windows\win-x86\ref\Wordle.dll
